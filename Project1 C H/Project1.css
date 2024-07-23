@@ -1,0 +1,45 @@
+/* *{
+
+    background-color: rgb(90, 108, 124);
+    margin: 0;
+    padding: 0;
+}
+
+#nav-bar{
+         margin-top: 50px;
+       display: flex;
+         border: 3px solid white;
+       align-items: center;
+       gap: 200px;
+    height: 60px;
+    width: 100%;
+    background-color: #0f1111;
+    
+}
+#nav-bar h4{
+    font-size: 25px;
+    color: rgb(192, 192, 16);
+}
+#nav-bar h5{
+    font-size: 20px;
+    color: rgb(250, 250, 237);
+}
+#search{
+    
+    color: white;
+    background-color: #f08804;
+
+} */
+
+body{
+    background-image: url("Amazon-logo.png");
+    background-size: cover;
+    background-color: rgb(154, 160, 166);
+}
+#box{
+    height: 150px;
+    width: 150px;
+    background-image: url("Amazon-logo.png");
+    background-size: cover;
+}
+
