@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(211, 212, 213);
+}
+div{
+    height: 200 px;
+    width: 200px;
+    background-color: rgb(112, 112, 115);
+    color: rgb(245, 241, 5);
+
+}
